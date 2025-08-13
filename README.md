@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hi, I'm Sai! 👋
 
-<!--
-**Shori-Sai/Shori-Sai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Electronics and Communication Engineering student at [SRM Institute of Science and Technology](https://www.srmist.edu.in/), India <br/>
+🎓 Pursuing a **BS in Data Science** from [IIT Madras](https://study.iitm.ac.in/ds/) alongside my ECE degree <br/>
+📚 Passionate about electronics, embedded systems, and technology innovations <br/>
+💻 Exploring projects in IoT, robotics, and signal processing <br/>
 
-Here are some ideas to get you started:
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![Sai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shori-Sai&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Optional: Top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shori-Sai&layout=compact&theme=radical)
+
